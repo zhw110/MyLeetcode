@@ -1,5 +1,6 @@
+package leetcode;
 
-public class A1TwoSum
+public class TwoSum
 {
 
 	public int[] twoSum(final int[] nums, final int target)
